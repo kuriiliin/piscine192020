@@ -1,0 +1,5 @@
+ Credentials cache: API:836DB3BB-32F2-4E6C-8F6C-90C6E559566C
+        Principal: akasmi@S19.BE
+
+  Issued                Expires               Principal
+Sep  8 21:20:55 2020  Sep  9 00:20:47 2020  krbtgt/S19.BE@S19.BE
